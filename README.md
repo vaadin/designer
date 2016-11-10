@@ -1,4 +1,4 @@
-# Designer issues
+# Vaadin Designer issues
 
 This is a public repository for Vaadin Designer bug reports.
 
