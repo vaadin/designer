@@ -11,7 +11,7 @@ The latest stable Designer version for Framework 8 is 
 [Vaadin Designer 2.2.3](#vaadin-designer-2x)
 
 The latest Designer version for Framework 7 is 
-[Vaadin Designer 1.4.3](#vaadin-designer-1x)
+[Vaadin Designer 1.4.3](#vaadin-designer-for-framework-7)
 
 See the full list of [releases](#releases).
 
@@ -183,7 +183,7 @@ not supported.
   - Template filtering in the New Design wizard
   - Theme selection for imported template styles
 
-## Vaadin Designer 1.x for Vaadin Framework 7
+## Vaadin Designer for Framework 7
 
 ##### What's new in 1.4
 
@@ -244,7 +244,7 @@ guide.](https://vaadin.com/designer/designer-1_2-responsive-templates-user-guide
         "Content"-property.
   - Improved Dark theme support
   - Improved GridLayout support
-  - Copy\&paste and drag\&drop is now works with html snippets
+  - Copy&paste and drag&drop is now works with html snippets
   - Less external requirements (e.g JEE feature, Vaadin plug-in) =
     better compatibility
   - Custom content and attributes in the declarative file better
@@ -596,8 +596,6 @@ In IntelliJ only
 
   - Fix the palette issue in IntelliJ IC 2016.3
   - Fix bug "Write access failure" in IntelliJ IC 2016.3
-
-<!-- end list -->
 
 #### 1.1.1
 
