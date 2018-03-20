@@ -320,6 +320,13 @@ not supported.
 
 ## Releases
 
+#### 3.0.0.beta3
+
+Released 2018-03-15
+
+  - Use correct prefix (context or frontend) for connected companion file
+  - Java Companion file for flow template is generated with wrong path (#1602)
+
 #### 3.0.0.beta2
 
 Released 2018-03-08
