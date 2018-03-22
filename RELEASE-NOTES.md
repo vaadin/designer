@@ -324,7 +324,7 @@ not supported.
 
 Released 2018-03-22
 
-  - Fix the bug which sometimes makes the IDE frozen and unresponsive after closing a design
+  - Fix the bug which sometimes makes the IDE frozen and unresponsive after closing a design (#1625)
 
 #### 3.0.0.beta3
 
