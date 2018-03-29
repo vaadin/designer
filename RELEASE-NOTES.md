@@ -320,6 +320,13 @@ not supported.
 
 ## Releases
 
+#### 3.0.0.beta5
+
+Released 2018-03-29
+
+  - Apply new license checker using subscription based license key
+  - Use the correct Polymer import after production mode build (#1606)
+
 #### 3.0.0.beta4
 
 Released 2018-03-22
