@@ -320,6 +320,12 @@ not supported.
 
 ## Releases
 
+#### 3.0.0.beta6
+
+Released 2018-04-05
+
+  - Shared styles fetched from wrong folder ([#1654](https://github.com/vaadin/designer/issues/1654))
+
 #### 3.0.0.beta5
 
 Released 2018-03-29
