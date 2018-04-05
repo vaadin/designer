@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin 10 and 8.
 There is also separate product for Vaadin Framework 7.
 
 The latest pre-release version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.0.beta4](#vaadin-designer-3x).
+[Vaadin Designer 3.0.0.beta6](#vaadin-designer-3x).
 
 The latest stable Designer version for Framework 8 is 
 [Vaadin Designer 2.2.3](#vaadin-designer-2x)
