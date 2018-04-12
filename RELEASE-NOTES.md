@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin 10 and 8.
 There is also separate product for Vaadin Framework 7.
 
 The latest pre-release version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.0.beta6](#vaadin-designer-3x).
+[Vaadin Designer 3.0.0.beta7](#vaadin-designer-3x).
 
 The latest stable Designer version for Framework 8 is 
 [Vaadin Designer 2.2.3](#vaadin-designer-2x)
@@ -319,6 +319,13 @@ not supported.
   - Theme selection for imported template styles
 
 ## Releases
+
+#### 3.0.0.beta7
+
+Released 2018-04-12
+
+  - Improve design loading speed on the first design opening
+  - Use an embedded license dialog for Flow design
 
 #### 3.0.0.beta6
 
