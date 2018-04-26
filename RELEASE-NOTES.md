@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin 10 and 8.
 There is also separate product for Vaadin Framework 7.
 
 The latest pre-release version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.0.beta7](#vaadin-designer-3x).
+[Vaadin Designer 3.0.0.final](#vaadin-designer-3x).
 
 The latest stable Designer version for Framework 8 is 
 [Vaadin Designer 2.2.3](#vaadin-designer-2x)
@@ -46,7 +46,7 @@ Please review the requirements below and the 
   - Newest Chrome, Safari, Firefox or Edge. IE 11+.
   - Java 8 and 9. 
   - Eclipse Oxygen, Neon and Mars. Java EE edition.
-  - JetBrains IntelliJ IDEA 15, 2016, 2017. Community or Ultimate edition.
+  - JetBrains IntelliJ IDEA 2016, 2017, 2018. Community or Ultimate edition.
   - Vaadin 8 or Vaadin 10.
 
 ##### Known Issues and Limitations
@@ -319,6 +319,16 @@ not supported.
   - Theme selection for imported template styles
 
 ## Releases
+
+#### 3.0.0.final
+
+Released 2018-04-26
+
+  - External preview works in any browsers ([#1671](https://github.com/vaadin/designer/issues/1671))
+  - Dropped support for IntelliJ IDEA 15. Minimum supported version is IntelliJ IDEA 16. ([#1664](https://github.com/vaadin/designer/issues/1664))
+  - "Flow template" is renamed to "Vaadin 10 design" ([#1637](https://github.com/vaadin/designer/issues/1637))
+  - Fixed the bug when it was impossible to add new viewport size preset ([#1719](https://github.com/vaadin/designer/issues/1719))
+  - Fixed the palette focus issue for Vaadin 10 design in Eclipse with macOS ([#1627](https://github.com/vaadin/designer/issues/1627))
 
 #### 3.0.0.beta7
 
