@@ -4,11 +4,8 @@ Vaadin Designer is available for Vaadin 10 and 8.
 
 There is also separate product for Vaadin Framework 7.
 
-The latest pre-release version for Vaadin 10 and 8 is 
+The latest stable version for Vaadin 10 and 8 is 
 [Vaadin Designer 3.0.0.final](#vaadin-designer-3x).
-
-The latest stable Designer version for Framework 8 is 
-[Vaadin Designer 2.2.3](#vaadin-designer-2x)
 
 The latest Designer version for Framework 7 is 
 [Vaadin Designer 1.4.3](#vaadin-designer-for-framework-7)
@@ -49,12 +46,13 @@ Please review the requirements below and the 
   - JetBrains IntelliJ IDEA 2016, 2017, 2018. Community or Ultimate edition.
   - Vaadin 8 or Vaadin 10.
 
-##### Known Issues and Limitations
+#### Known Issues and Limitations
 
-  - Focusing Palette search field or elements in Preview mode on macOS Eclipse doesn’t work #1596
-  - DnD on the lower part of the editor on macOS Eclipse doesn’t work #1597
+##### Vaadin 10
+  - External preview doesn't work with IE11
 
-#### Vaadin 8
+##### Vaadin 8
+  - All the components in Framework 8.4 are not supported ([#1624](https://github.com/vaadin/designer/issues/1624))
   - Custom widgetsets not used when designing. Custom (project) components
     and nested designs are shown as place holders when designing.
   - Limited support for GridLayout; no column- or row-spanning.
@@ -65,7 +63,7 @@ Please review the requirements below and the 
   - Using a theme from another project (e.g Maven multi-module project) is
     not supported.
 
-## Vaadin Designer 2.x
+### Vaadin Designer 2.x
 
 ##### What's new in 2.2
 
@@ -126,62 +124,6 @@ Framework 7.
   - Properties renamed to match new Vaadin 8 properties e.g. InputPrompt
     is now Placeholder
   - Stability improvements and bug fixes
-
-##### Requirements
-
-  - Windows 7 / OS X 10.9 / Ubuntu 14.04 LTS <sup>1</sup>
-  - Chrome / Safari / Firefox / IE 11+ <sup>2</sup>
-  - Java 8
-  - Eclipse Luna SR2 (4.4.2)+, Java EE edition. Eclipse Neon 4.6
-    recommended <sup>3 </sup>
-  - JetBrains IntelliJ IDEA 15+ Community/Ultimate 
-  - Vaadin 8.0+
-
-<sup>1</sup> In addition, libwebkitgtk 1.0 needs to be installed
-(libwebkitgtk 3 not sufficient).  
-Tested on Ubuntu 14.04 LTS, but other distributions known to work, as
-long as libwebkitgtk 1.0 is available for Eclipse.
-
-<sup>2</sup> Vaadin Designer makes use of your system browser to achieve
-real WYSIWYG. Note that security settings (particularly on Windows / IE)
-may in some instances interfere. IE8/9/10 not supported and results in
-designer not loading.
-
-<sup>3</sup> Eclipse IDE for Java EE Developers preferred. Vaadin
-Designer can be installed on other variants, but some update-site for
-dependencies might be missing. See
-the [FAQ](https://vaadin.com/designer/faq) for more details.  
-Verified to work on STS 3.6.4.  
-Vaadin Designer can be installed on older Luna versions, but prior to
-SR2 there are serious bugs in Eclipse.
-
-#### Limitations
-
-#### Custom widgetsets and components
-
-Custom widgetsets not used when designing. Custom (project) components
-and nested designs are shown as place holders when designing.
-
-#### GridLayout column- and row-spanning
-
-Limited support for GridLayout; no column- or row-spanning.
-
-#### ClassResource not supported
-
-The declarative format does not currently support ClassResource (e.g for
-icons and images). The supported resources are: ThemeResource
-(theme://), ExternalResource (http://), FileResource (file://) and (for
-icons only) FontIcon (fonticon://).
-
-#### Using theme from separate project not supported
-
-Using a theme from another project (e.g Maven multi-module project) is
-not supported.
-
-##### Additional limitations for IntelliJ IDEA
-
-  - Template filtering in the New Design wizard
-  - Theme selection for imported template styles
 
 ## Vaadin Designer for Framework 7
 
