@@ -49,7 +49,8 @@ Please review the requirements below and the 
 #### Known Issues and Limitations
 
 ##### Vaadin 10
-  - External preview doesn't work with IE11
+  - External preview doesn't work on IE11.
+  - Horizontal scrolling using the trackpad doesn't work on macOS Eclipse.
 
 ##### Vaadin 8
   - All the components in Framework 8.4 are not supported ([#1624](https://github.com/vaadin/designer/issues/1624))
