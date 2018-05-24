@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin 10 and 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest stable version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.1](#vaadin-designer-3x).
+[Vaadin Designer 3.0.2](#vaadin-designer-3x).
 
 See the full list of [releases](#releases).
 
@@ -123,6 +123,18 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 3.0.2
+
+Released 2018-05-24
+
+  - Improve the Javadoc in newly created Java companion file. ([#1779](https://github.com/vaadin/designer/issues/1779))
+  - Allow dropping components in the paper empty space to add a new root. ([#1777](https://github.com/vaadin/designer/issues/1777))
+  - Generate id for component based on existing label property. ([#1776](https://github.com/vaadin/designer/issues/1776))
+  - Hide the current design in palette components. ([#1770](https://github.com/vaadin/designer/issues/1770))
+  - Fit the initial paper size to viewport size. ([#1620](https://github.com/vaadin/designer/issues/1620))
+  - External preview has the same styling as deployed Flow application. ([#1617](https://github.com/vaadin/designer/issues/1617))
+  - Show the warning dialog for Java 10 users in Eclipse instead of crashing.
 
 #### 3.0.1
 
