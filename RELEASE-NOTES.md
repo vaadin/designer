@@ -47,6 +47,7 @@ Please review the requirements below and the 
 ##### Vaadin 10
   - External preview doesn't work on IE11.
   - Horizontal scrolling using the trackpad doesn't work on macOS Eclipse.
+  - Java 10 is not supported. ([#1757](https://app.zenhub.com/workspace/o/vaadin/designer/issues/1757))
 
 ##### Vaadin 8
   - All the components in Framework 8.4 are not supported ([#1624](https://github.com/vaadin/designer/issues/1624))
@@ -59,6 +60,7 @@ Please review the requirements below and the 
     icons only) FontIcon (fonticon://).
   - Using a theme from another project (e.g Maven multi-module project) is
     not supported.
+  - Java 10 is not supported. ([#1757](https://app.zenhub.com/workspace/o/vaadin/designer/issues/1757))
 
 ### Vaadin Designer 2.x
 
