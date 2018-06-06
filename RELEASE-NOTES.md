@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin 10 and 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest stable version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.2](#vaadin-designer-3x).
+[Vaadin Designer 3.0.3](#vaadin-designer-3x).
 
 See the full list of [releases](#releases).
 
@@ -126,7 +126,18 @@ Framework 7.
 
 ## Releases
 
-#### 3.0.2
+#### 3.0.3
+
+Released 2018-06-07
+
+  - CSS media queries now work correctly when paper size changes.
+  - Changing the 'id' property updates the corresponding @Id in the Java file. ([#1604](https://github.com/vaadin/designer/issues/1604))
+  - Lumo styles are properly applied in the editor. ([#1683](https://github.com/vaadin/designer/issues/1683))
+  - Palette was removed from Preview mode. ([#1568](https://github.com/vaadin/designer/issues/1568))
+  - Fixed issues in working with multiple open projects. ([#1593](https://github.com/vaadin/designer/issues/1593))
+  - Fixed an issue in companion file detection if it contained multiple @HtmlImports. ([#1712](https://github.com/vaadin/designer/issues/1712))
+  - Support Java 10 in Eclipse Designer. ([#1757](https://github.com/vaadin/designer/issues/1757))
+  - Fixed rendering of the custom wysiwyg element. ([#1778](https://github.com/vaadin/designer/issues/1778))
 
 Released 2018-05-24
 
