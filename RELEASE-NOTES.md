@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin 10 and 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest stable version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.3](#vaadin-designer-3x).
+[Vaadin Designer 3.0.4](#vaadin-designer-3x).
 
 See the full list of [releases](#releases).
 
@@ -124,6 +124,14 @@ Framework 7.
 
 ## Releases
 
+#### 3.0.4
+
+Released 2018-06-20
+
+  - Eclipse proposes correct directory for Flow template in "New design" wizard. ([#1647](https://github.com/vaadin/designer/issues/1647))
+  - Fixed issue when trying to create Flow template in Vaadin project. ([#1688](https://github.com/vaadin/designer/issues/1688))
+  - Support multiple roots in snippet. ([#1788](https://github.com/vaadin/designer/issues/1788))
+
 #### 3.0.3
 
 Released 2018-06-07
@@ -136,6 +144,8 @@ Released 2018-06-07
   - Fixed an issue in companion file detection if it contained multiple @HtmlImports. ([#1712](https://github.com/vaadin/designer/issues/1712))
   - Support Java 10 in Eclipse Designer. ([#1757](https://github.com/vaadin/designer/issues/1757))
   - Fixed rendering of the custom wysiwyg element. ([#1778](https://github.com/vaadin/designer/issues/1778))
+
+#### 3.0.2
 
 Released 2018-05-24
 
