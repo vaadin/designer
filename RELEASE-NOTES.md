@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin 10 and 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest stable version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.4](#vaadin-designer-3x).
+[Vaadin Designer 3.0.5](#vaadin-designer-3x).
 
 See the full list of [releases](#releases).
 
@@ -123,6 +123,18 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 3.0.5
+
+Released 2018-07-04
+
+  - Remember paper size and position for multiple design openings. ([#1713](https://github.com/vaadin/designer/issues/1713))
+  - Fixed issue when edits were not saved to template text. ([#1591](https://github.com/vaadin/designer/issues/1591))
+  - Fixed issue when server address was already reserved in Eclipse. ([#1665](https://github.com/vaadin/designer/issues/1665))
+  - Colspan attribute change updates form layout automatically. ([#1800](https://github.com/vaadin/designer/issues/1800))
+  - Web components detection logic improved. ([#1759](https://github.com/vaadin/designer/issues/1759))
+  - Modify template text only when new content differs form the previous one. ([#1649](https://github.com/vaadin/designer/issues/1649))
+  - Icon set updated for better UX. ([#1782](https://github.com/vaadin/designer/issues/1782))
 
 #### 3.0.4
 
