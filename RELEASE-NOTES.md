@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin 10 and 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest stable version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.5](#vaadin-designer-3x).
+[Vaadin Designer 3.0.6](#vaadin-designer-3x).
 
 See the full list of [releases](#releases).
 
@@ -123,6 +123,18 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 3.0.6
+
+Released 2018-07-25
+
+  - Automatically refresh external preview. ([#1741](https://github.com/vaadin/designer/issues/1741))
+  - Add String as an argument for Flow generic types. ([#1749](https://github.com/vaadin/designer/issues/1749))
+  - Render dragged snippet with multiple imports correctly. ([#1682](https://github.com/vaadin/designer/issues/1682))
+  - Only refresh paper when editing a data binding. ([#1801](https://github.com/vaadin/designer/issues/1801))
+  - Support Gradle webjars dependencies. ([#1811](https://github.com/vaadin/designer/issues/1811))
+  - Stop editing properties whenever underlying table widget is reloaded. ([#1780](https://github.com/vaadin/designer/issues/1780))
+  - Change design file if root components have been rearranged. ([#1799](https://github.com/vaadin/designer/issues/1799))
 
 #### 3.0.5
 
