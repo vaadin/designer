@@ -1,11 +1,11 @@
 # Release notes for Vaadin Designer
 
-Vaadin Designer is available for Vaadin 10 and 8. 
+Vaadin Designer is available for Vaadin 11, Vaadin 10 and 8. 
 
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
-The latest stable version for Vaadin 10 and 8 is 
-[Vaadin Designer 3.0.6](#vaadin-designer-3x).
+The latest stable version for Vaadin 11 and 8 is 
+[Vaadin Designer 3.1.0](#vaadin-designer-3x).
 
 See the full list of [releases](#releases).
 
@@ -25,6 +25,9 @@ Please review the requirements below and the 
 
 #### What's new in 3.0
 
+##### Vaadin 11
+  - Gradle projects support.
+
 ##### Vaadin 10
   - New Polymer template syntax for designs
   - Write Javascript and CSS directly into to the design file
@@ -38,11 +41,14 @@ Please review the requirements below and the 
   - Windows 10 / OS X 10.12 / Ubuntu 16.04 LTS
   - Newest Chrome, Safari, Firefox or Edge.
   - Java 8, 9 and 10. 
-  - Eclipse Oxygen, Neon and Mars. Java EE edition.
+  - Eclipse Photon, Oxygen and Neon. Java EE edition.
   - JetBrains IntelliJ IDEA 2016, 2017, 2018. Community or Ultimate edition.
-  - Vaadin 8 or Vaadin 10.
+  - Vaadin 8, Vaadin 11.
 
 #### Known Issues and Limitations
+
+##### Vaadin 11
+  - Horizontal scrolling using the trackpad doesn't work for Windows Eclipse Photon.
 
 ##### Vaadin 10
   - External preview doesn't work on IE11.
@@ -123,6 +129,14 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 3.1.0
+
+Released 2018-08-08
+
+  - Added compatibility with Vaadin 11.
+  - Eclipse Photon support. ([#1804](https://github.com/vaadin/designer/issues/1804))
+  - JxBrowser update to 6.21. ([#1805](https://github.com/vaadin/designer/issues/1805))  
 
 #### 3.0.6
 
