@@ -17,6 +17,7 @@ Please review the requirements below and the 
   - Site: <http://vaadin.com/designer>
   - Get started: <http://vaadin.com/designer/get-started>
   - Documentation: 
+    - Vaadin 11: <https://vaadin.com/docs/v11>
     - Vaadin 10: <https://vaadin.com/docs/v10>
     - Vaadin 8: <https://vaadin.com/docs/v8>
   - FAQ: <https://vaadin.com/designer/faq>
