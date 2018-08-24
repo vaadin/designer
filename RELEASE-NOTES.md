@@ -1,10 +1,10 @@
 # Release notes for Vaadin Designer
 
-Vaadin Designer is available for Vaadin 11, 10 and 8. 
+Vaadin Designer is available for Vaadin platform and Vaadin Framework 8. 
 
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
-The latest stable version for Vaadin 11 and 8 is 
+The latest stable version for Vaadin platform and Framework 8 is 
 [Vaadin Designer 3.1.0](#vaadin-designer-3x).
 
 See the full list of [releases](#releases).
@@ -23,12 +23,12 @@ Please review the requirements below and the 
 
 ## Vaadin Designer 3.x
 
-#### What's new in 3.0
-
-##### Vaadin 11
-  - Gradle projects support.
-
-##### Vaadin 10
+### What's new in 3.1
+  - Gradle project support
+  - Works on Eclipse Photon
+  - Part of Vaadin platform 11
+  
+### What's new in 3.0
   - New Polymer template syntax for designs
   - Write Javascript and CSS directly into to the design file
   - New Palette for web components and HTML elements
@@ -47,7 +47,7 @@ Please review the requirements below and the 
 
 #### Known Issues and Limitations
 
-##### Vaadin 11, 10
+##### Vaadin platform
   - External preview doesn't work on IE11.
   - Horizontal scrolling using the trackpad doesn't work on Eclipse.
 
@@ -63,9 +63,9 @@ Please review the requirements below and the 
   - Using a theme from another project (e.g Maven multi-module project) is
     not supported.
 
-### Vaadin Designer 2.x
+## Vaadin Designer 2.x
 
-##### What's new in 2.2
+### What's new in 2.2
 
   - Provide a way to access exported component through getter
       - Project wide setting.
@@ -75,7 +75,7 @@ Please review the requirements below and the 
         details](https://vaadin.com/docs/v8/designer/designer-wiring.html#designer.wiring.java.getter)
   - Delay theme recompilation until save (IntelliJ)
 
-##### What's new in 2.1
+### What's new in 2.1
 
 Support @PropertyId annotation for fields exported to Java companion
 file
@@ -111,7 +111,7 @@ Experimental embedded Chromium browser in Eclipse
 
   - Embedded Chromium browser can be enabled from plugin settings
 
-##### What's new in 2.0
+### What's new in 2.0
 
 Requires Vaadin Framework 8 and Java 8. Does not support Vaadin
 Framework 7.
