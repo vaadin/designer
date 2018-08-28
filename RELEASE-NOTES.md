@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest stable version for Vaadin platform and Framework 8 is 
-[Vaadin Designer 3.1.0](#vaadin-designer-3x).
+[Vaadin Designer 3.1.1](#vaadin-designer-3x).
 
 See the full list of [releases](#releases).
 
@@ -127,6 +127,14 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 3.1.1
+
+Released 2018-08-28
+
+  - Support different frontend folder locations in spring boot projects. ([#1812](https://github.com/vaadin/designer/issues/1812))
+  - Fix widgetset load issue while opening platform designs. ([#1582](https://github.com/vaadin/designer/issues/1582))
+  - New platform designs include styles by default. ([#1835](https://github.com/vaadin/designer/issues/1835))  
 
 #### 3.1.0
 
