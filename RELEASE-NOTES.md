@@ -133,7 +133,7 @@ Framework 7.
 Released 2018-09-12
 
   - Double-clicking a Vaadin 11 palette item now adds a sibling instead of a child. ([#1689](https://github.com/vaadin/designer/issues/1689))
-  - Fixed a bug that made the licensing banner of pro components like Charts appear. (no public issue ID)
+  - Fixed a bug that made the licensing banner of pro components like Charts appear.
   - Correctly write Grid's item type to Vaadin 8 designs if the type is a static inner class. ([#1847](https://github.com/vaadin/designer/issues/1847))
   - Don't associate Designer with Polymer 2 templates in non-Flow project anymore. ([#1843](https://github.com/vaadin/designer/issues/1843))
 
