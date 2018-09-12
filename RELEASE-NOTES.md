@@ -7,6 +7,9 @@ There is also separate product for Vaadin Framework 7. Release notes for that pr
 The latest stable version for Vaadin platform and Framework 8 is 
 [Vaadin Designer 3.1.2](#vaadin-designer-3x).
 
+The latest preview version for Vaadin platform and Framework 8 is
+[Vaadin Designer 4.0.0.alpha3](#vaadin-designer-4x).
+
 See the full list of [releases](#releases).
 
 Please review the requirements below and the 
@@ -22,13 +25,18 @@ Please review the requirements below and the 
     - Vaadin 8: <https://vaadin.com/docs/v8>
   - FAQ: <https://vaadin.com/designer/faq>
 
+## Vaadin Designer 4.x
+
+### What's new in 4.0
+  - New web based palette, properties and outline views for Flow design
+
 ## Vaadin Designer 3.x
 
 ### What's new in 3.1
   - Gradle project support
   - Works on Eclipse Photon
   - Part of Vaadin platform 11
-  
+
 ### What's new in 3.0
   - New Polymer template syntax for designs
   - Write Javascript and CSS directly into to the design file
@@ -41,7 +49,7 @@ Please review the requirements below and the 
 #### Requirements
   - Windows 10 / OS X 10.12 / Ubuntu 16.04 LTS
   - Newest Chrome, Safari, Firefox or Edge.
-  - Java 8, 9 and 10. 
+  - Java 8, 9 and 10.
   - Eclipse Photon, Oxygen and Neon. Java EE edition.
   - JetBrains IntelliJ IDEA 2016, 2017, 2018. Community or Ultimate edition.
   - Vaadin 8, Vaadin 11.
@@ -128,12 +136,19 @@ Framework 7.
 
 ## Releases
 
+#### 4.0.0.alpha3
+
+Released 2018-09-12
+
+  - Save the state of palette categories before and after filtering. ([#1618](https://github.com/vaadin/designer/issues/1618))
+  - Improve palette icons using predefined colors. ([#1571](https://github.com/vaadin/designer/issues/1571))
+  - Group component snippets according to their main web component. ([#1829](https://github.com/vaadin/designer/issues/1829))
+
 #### 3.1.2
 
 Released 2018-09-12
 
   - Double-clicking a Vaadin 11 palette item now adds a sibling instead of a child. ([#1689](https://github.com/vaadin/designer/issues/1689))
-  - Fixed a bug that made the licensing banner of pro components like Charts appear.
   - Correctly write Grid's item type to Vaadin 8 designs if the type is a static inner class. ([#1847](https://github.com/vaadin/designer/issues/1847))
   - Don't associate Designer with Polymer 2 templates in non-Flow project anymore. ([#1843](https://github.com/vaadin/designer/issues/1843))
 
