@@ -8,7 +8,7 @@ The latest stable version for Vaadin platform and Framework 8 is
 [Vaadin Designer 3.1.2](#vaadin-designer-3x).
 
 The latest preview version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.0.0.alpha3](#vaadin-designer-4x).
+[Vaadin Designer 4.0.0.alpha4](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -136,6 +136,13 @@ Framework 7.
 
 ## Releases
 
+#### 4.0.0.alpha4
+
+Released 2018-09-26
+
+  - Show project components separately in the palette. ([#1828](https://github.com/vaadin/designer/issues/1828))
+  - Add selection for the outline. ([#1667](https://github.com/vaadin/designer/issues/1667))
+
 #### 4.0.0.alpha3
 
 Released 2018-09-12
@@ -149,6 +156,7 @@ Released 2018-09-12
 Released 2018-09-12
 
   - Double-clicking a Vaadin 11 palette item now adds a sibling instead of a child. ([#1689](https://github.com/vaadin/designer/issues/1689))
+  - Fixed a bug that made the licensing banner of pro components like Charts appear.
   - Correctly write Grid's item type to Vaadin 8 designs if the type is a static inner class. ([#1847](https://github.com/vaadin/designer/issues/1847))
   - Don't associate Designer with Polymer 2 templates in non-Flow project anymore. ([#1843](https://github.com/vaadin/designer/issues/1843))
 
