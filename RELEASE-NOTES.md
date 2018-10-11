@@ -136,6 +136,14 @@ Framework 7.
 
 ## Releases
 
+#### 4.0.0.alpha5
+
+Released 2018-10-11
+
+  - Editing support for property values.
+  - Indicate missing snippet imports in palette.
+  - Palette usability improvements.
+
 #### 4.0.0.alpha4
 
 Released 2018-09-26
@@ -150,6 +158,13 @@ Released 2018-09-12
   - Save the state of palette categories before and after filtering. ([#1618](https://github.com/vaadin/designer/issues/1618))
   - Improve palette icons using predefined colors. ([#1571](https://github.com/vaadin/designer/issues/1571))
   - Group component snippets according to their main web component. ([#1829](https://github.com/vaadin/designer/issues/1829))
+
+#### 3.1.3
+
+Released 2018-10-11
+
+  - Handle unresolved imports from project.
+  - Reduce amount of license checking requests.
 
 #### 3.1.2
 
