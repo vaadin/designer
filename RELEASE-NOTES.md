@@ -59,6 +59,7 @@ Please review the requirements below and the 
 ##### Vaadin platform
   - External preview doesn't work on IE11.
   - Horizontal scrolling using the trackpad doesn't work on Eclipse.
+  - Some keyboard shortcuts, e.g. "delete", don't work in Eclipse Oxygen and Neon.
 
 ##### Vaadin 8
   - All the components in Framework 8.4 are not supported ([#1624](https://github.com/vaadin/designer/issues/1624))
