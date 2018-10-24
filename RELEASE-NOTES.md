@@ -136,6 +136,13 @@ Framework 7.
 
 ## Releases
 
+#### 4.0.0.alpha6
+
+Released 2018-10-25
+
+  - Outline support for the Java file connection. ([#1669](https://github.com/vaadin/designer/issues/1669))
+  - Text node editing improved. ([#1718](https://github.com/vaadin/designer/issues/1718))
+
 #### 4.0.0.alpha5
 
 Released 2018-10-11
@@ -159,6 +166,16 @@ Released 2018-09-12
   - Improve palette icons using predefined colors. ([#1571](https://github.com/vaadin/designer/issues/1571))
   - Group component snippets according to their main web component. ([#1829](https://github.com/vaadin/designer/issues/1829))
 
+#### 3.1.4
+
+Released 2018-10-25
+
+  - Fixed charts rendering problem. ([#1876](https://github.com/vaadin/designer/issues/1876))
+  - Fixed issue with templates opening in starter. ([#1897](https://github.com/vaadin/designer/issues/1897))
+  - Fixed problem with Eclipse external preview in Firefox. ([#1885](https://github.com/vaadin/designer/issues/1885))  
+  - Flow editor support for keyboard shortcuts in Eclipse. ([#1863](https://github.com/vaadin/designer/issues/1863))
+  - License dialog UX improvements. ([#1745](https://github.com/vaadin/designer/issues/1745))
+  
 #### 3.1.3
 
 Released 2018-10-11
