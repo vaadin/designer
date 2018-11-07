@@ -8,7 +8,7 @@ The latest stable version for Vaadin platform and Framework 8 is
 [Vaadin Designer 3.1.2](#vaadin-designer-3x).
 
 The latest preview version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.0.0.alpha4](#vaadin-designer-4x).
+[Vaadin Designer 4.0.0.beta1](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -136,6 +136,17 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.0.0.beta1
+
+Released 2018-11-7
+
+  - New Outline, Palette and Properties are used by default. ([#1926](https://github.com/vaadin/designer/issues/1926))
+  - Support dragging snippets from Palette to Outline. ([#1668](https://github.com/vaadin/designer/issues/1668))
+  - Support reordering elements in Outline. ([#1675](https://github.com/vaadin/designer/issues/1675))
+  - Hide `style` element in Outline by default. ([#1886](https://github.com/vaadin/designer/issues/1886))
+  - Fixed missing connection icon for new element in Outline. ([#1904](https://github.com/vaadin/designer/issues/1904))
+  - Fixed Lumo theme doesn't render correctly. ([#1920](https://github.com/vaadin/designer/issues/1920))
 
 #### 4.0.0.alpha6
 
