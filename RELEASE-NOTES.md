@@ -20,15 +20,19 @@ Please review the requirements below and the 
   - Site: <http://vaadin.com/designer>
   - Get started: <http://vaadin.com/designer/get-started>
   - Documentation: 
+    - Vaadin 12: <https://vaadin.com/docs/v12>
     - Vaadin 11: <https://vaadin.com/docs/v11>
-    - Vaadin 10: <https://vaadin.com/docs/v10>
+    - Vaadin 10 LTS: <https://vaadin.com/docs/v10>
     - Vaadin 8: <https://vaadin.com/docs/v8>
   - FAQ: <https://vaadin.com/designer/faq>
 
 ## Vaadin Designer 4.x
 
 ### What's new in 4.0
-  - New web based palette, properties and outline views for Flow design
+  - Redesigned Palette, Properties and Outline views for platform designs
+  - Powerful ready-made snippets that allow you to quickly create content
+  - Improved editing of text nodes
+  - Performance improvements for large projects
 
 ## Vaadin Designer 3.x
 
