@@ -8,7 +8,7 @@ The latest stable version for Vaadin platform and Framework 8 is
 [Vaadin Designer 3.1.2](#vaadin-designer-3x).
 
 The latest preview version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.0.0.beta1](#vaadin-designer-4x).
+[Vaadin Designer 4.0.0.beta2](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -140,6 +140,19 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.0.0.beta2
+
+Released 2018-11-22
+
+  - Allow setting the component theme for the project. ([#1868](https://github.com/vaadin/designer/issues/1868))
+  - Support adding new properties to elements. ([#1716](https://github.com/vaadin/designer/issues/1716))
+  - Improve Outline rendering speed. ([#1940](https://github.com/vaadin/designer/issues/1940))
+  - Fix issue with properties editing from the editor. ([#1950](https://github.com/vaadin/designer/issues/1950))
+  - Allow platform design creation is Java class already exists. ([#1945](https://github.com/vaadin/designer/issues/1945))
+  - Report unresolved import only when it's needed. ([#1939](https://github.com/vaadin/designer/issues/1939))
+  - Fix exception during change of the Grid ItemType property. ([#1946](https://github.com/vaadin/designer/issues/1946))
+  - Fix exception when closing design. ([#1941](https://github.com/vaadin/designer/issues/1941))
 
 #### 4.0.0.beta1
 
