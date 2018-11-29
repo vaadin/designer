@@ -4,9 +4,6 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
-The latest stable version for Vaadin platform and Framework 8 is 
-[Vaadin Designer 3.1.2](#vaadin-designer-3x).
-
 The latest preview version for Vaadin platform and Framework 8 is
 [Vaadin Designer 4.0.0.final](#vaadin-designer-4x).
 
