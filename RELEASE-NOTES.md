@@ -8,7 +8,7 @@ The latest stable version for Vaadin platform and Framework 8 is
 [Vaadin Designer 3.1.2](#vaadin-designer-3x).
 
 The latest preview version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.0.0.beta2](#vaadin-designer-4x).
+[Vaadin Designer 4.0.0.final](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -140,6 +140,17 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.0.0.final
+
+Released 2018-11-29
+
+  - Support Java 11. ([#1906](https://github.com/vaadin/designer/issues/1906))
+  - Update form layout if colspan was changed. ([#1951](https://github.com/vaadin/designer/issues/1951))
+  - Select newly added component in outline. ([#1933](https://github.com/vaadin/designer/issues/1933))
+  - Handle Eclipse button press in property editor as text change. ([#1953](https://github.com/vaadin/designer/issues/1953))
+  - Do not show Vaadin perspective popup for platform designs. ([#1911](https://github.com/vaadin/designer/issues/1911))
+  - Fix exception when Material or None theme is used in Eclipse. ([#1939](https://github.com/vaadin/designer/issues/1955))
 
 #### 4.0.0.beta2
 
