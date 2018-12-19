@@ -138,6 +138,14 @@ Framework 7.
 
 ## Releases
 
+#### 4.1.0
+
+Released 2018-12-20
+
+  - Introduced a setting for disabling the shared styles import. ([#1869](https://github.com/vaadin/designer/issues/1869))
+  - Fixed Grid companion file connect issue. ([#1947](https://github.com/vaadin/designer/issues/1947))
+  - Fixed "render channel is already closed" exception. ([#1861](https://github.com/vaadin/designer/issues/1861))
+
 #### 4.0.0.final
 
 Released 2018-11-29
