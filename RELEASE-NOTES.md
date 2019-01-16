@@ -139,7 +139,18 @@ Framework 7.
 
 ## Releases
 
-#### 4.1.0
+#### 4.1.1
+
+Released 2019-01-16
+
+  - Do not open browser automatically for license dialog. ([#1727](https://github.com/vaadin/designer/issues/1727))
+  - Fix exception after project reset. ([#1577](https://github.com/vaadin/designer/issues/1577))
+  - Do not show internal Jetty exceptions to user. ([#1981](https://github.com/vaadin/designer/issues/1981))
+  - Handle project removing in Eclipse. ([#1989](https://github.com/vaadin/designer/issues/1989))
+  - Refresh companion file status in Eclipse after Maven update. ([#1984](https://github.com/vaadin/designer/issues/1984))
+  - Do not report errors related to PUSH and connection state. ([#1988](https://github.com/vaadin/designer/issues/1988))
+  - Fix exception during Outline view disposing in Eclipse. ([#1985](https://github.com/vaadin/designer/issues/1985))
+  - Fix companion file handling in Eclipse 2018-12. ([#1987](https://github.com/vaadin/designer/issues/1987))
 
 Released 2018-12-20
 
