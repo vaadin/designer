@@ -4,8 +4,8 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
-The latest preview version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.0.0.final](#vaadin-designer-4x).
+The latest version for Vaadin platform and Framework 8 is
+[Vaadin Designer 4.1.1](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -18,13 +18,15 @@ Please review the requirements below and the 
   - Get started: <http://vaadin.com/designer/get-started>
   - Documentation: 
     - Vaadin 12: <https://vaadin.com/docs/v12>
-    - Vaadin 11: <https://vaadin.com/docs/v11>
     - Vaadin 10 LTS: <https://vaadin.com/docs/v10>
     - Vaadin 8: <https://vaadin.com/docs/v8>
   - FAQ: <https://vaadin.com/designer/faq>
 
 ## Vaadin Designer 4.x
 
+### What's new in 4.1
+  - Introduced a setting for disabling the shared styles import
+  
 ### What's new in 4.0
   - Redesigned Palette, Properties and Outline views for platform designs
   - Powerful ready-made snippets that allow you to quickly create content
@@ -151,6 +153,8 @@ Released 2019-01-16
   - Do not report errors related to PUSH and connection state. ([#1988](https://github.com/vaadin/designer/issues/1988))
   - Fix exception during Outline view disposing in Eclipse. ([#1985](https://github.com/vaadin/designer/issues/1985))
   - Fix companion file handling in Eclipse 2018-12. ([#1987](https://github.com/vaadin/designer/issues/1987))
+
+#### 4.1.0
 
 Released 2018-12-20
 
