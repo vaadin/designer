@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.1.1](#vaadin-designer-4x).
+[Vaadin Designer 4.2.0](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -23,6 +23,9 @@ Please review the requirements below and the 
   - FAQ: <https://vaadin.com/designer/faq>
 
 ## Vaadin Designer 4.x
+
+### What's new in 4.2
+  - Configurable styles and themes
 
 ### What's new in 4.1
   - Introduced a setting for disabling the shared styles import
@@ -140,6 +143,19 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.2.0
+
+Released 2019-01-31
+
+  - Support color palette choice for themes. ([#1882](https://github.com/vaadin/designer/issues/1882))
+  - Store style settings to project. ([#1877](https://github.com/vaadin/designer/issues/1877))
+  - Show only relevant project settings. ([#1995](https://github.com/vaadin/designer/issues/1995))
+  - Support data binding in embedded template. ([#1907](https://github.com/vaadin/designer/issues/1907))
+  - Allow design creation in default Spring project. ([#1899](https://github.com/vaadin/designer/issues/1899))
+  - Multiple lines text node content is updated in paper. ([#1934](https://github.com/vaadin/designer/issues/1934))
+  - Allow text node editing inside template element. ([#1964](https://github.com/vaadin/designer/issues/1964))
+  - Show paper selection without modifying element. ([#1690](https://github.com/vaadin/designer/issues/1690))
 
 #### 4.1.1
 
