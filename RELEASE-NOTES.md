@@ -56,7 +56,7 @@ Please review the requirements below and the 
   - Windows 10 / OS X 10.12 / Ubuntu 16.04 LTS
   - Newest Chrome, Safari, Firefox or Edge.
   - Java 8, 9 and 10.
-  - Eclipse Photon, Oxygen and Neon. Java EE edition.
+  - Eclipse SimRel, Eclipse Photon, Oxygen and Neon. Java EE edition.
   - JetBrains IntelliJ IDEA 2016, 2017, 2018. Community or Ultimate edition.
   - Vaadin 8, Vaadin 11.
 
@@ -67,6 +67,7 @@ Please review the requirements below and the 
   - Horizontal scrolling using the trackpad doesn't work on Eclipse.
   - Some keyboard shortcuts, e.g. "delete", don't work in Eclipse Oxygen and Neon.
   - Running Eclipse macOS on JDK11 is not supported
+  - Running Eclipse SimRel for Windows or Linux on JDK11 is not supported
 
 ##### Vaadin 8
   - All the components in Framework 8.4 are not supported ([#1624](https://github.com/vaadin/designer/issues/1624))
@@ -143,6 +144,14 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.2.1
+
+Released 2019-02-19
+
+  - Fixed not working Delete and other keys in Eclipse for Windows and Linux. ([#2004](https://github.com/vaadin/designer/issues/2004))
+  - Update editor if text content has been changed in Eclipse.
+  - Fixed project settings exception. ([#2000](https://github.com/vaadin/designer/issues/2000))
 
 #### 4.2.0
 
