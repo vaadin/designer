@@ -1,11 +1,11 @@
 # Release notes for Vaadin Designer
 
-Vaadin Designer is available for Vaadin platform and Vaadin Framework 8. 
+Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.2.0](#vaadin-designer-4x).
+[Vaadin Designer 4.2.1](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -56,9 +56,10 @@ Please review the requirements below and the 
   - Windows 10 / OS X 10.12 / Ubuntu 16.04 LTS
   - Newest Chrome, Safari, Firefox or Edge.
   - Java 8, 9 and 10.
-  - Eclipse SimRel, Eclipse Photon, Oxygen and Neon. Java EE edition.
+    - IntelliJ 2018.2 is required for working with Java 11 and Vaadin 12.
+  - Eclipse 2018-12, Eclipse SimRel, Eclipse Photon, Oxygen and Neon. Java EE edition.
   - JetBrains IntelliJ IDEA 2016, 2017, 2018. Community or Ultimate edition.
-  - Vaadin 8, Vaadin 11.
+  - Vaadin 8, Vaadin 12.
 
 #### Known Issues and Limitations
 
