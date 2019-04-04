@@ -17,8 +17,7 @@ Please review the requirements below and the 
   - Site: <http://vaadin.com/designer>
   - Get started: <http://vaadin.com/designer/get-started>
   - Documentation: 
-    - Vaadin 12: <https://vaadin.com/docs/v12>
-    - Vaadin 10 LTS: <https://vaadin.com/docs/v10>
+    - Vaadin platform: <https://vaadin.com/docs/designer/getting-started/designer-overview.html>
     - Vaadin 8: <https://vaadin.com/docs/v8>
   - FAQ: <https://vaadin.com/designer/faq>
 
