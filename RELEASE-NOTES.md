@@ -144,6 +144,14 @@ Framework 7.
 
 ## Releases
 
+#### 4.2.2
+
+Released 2019-04-11
+    
+  - Fixed Eclipse hanging during editing design source. ([#2022](https://github.com/vaadin/designer/issues/2022))
+  - Fixed Eclipse crash while opening template. ([#2015](https://github.com/vaadin/designer/issues/2015))
+  - Fixed preferences opening exception in IntelliJ. ([#2014](https://github.com/vaadin/designer/issues/2014))
+
 #### 4.2.1
 
 Released 2019-02-19
