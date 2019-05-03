@@ -23,6 +23,9 @@ Please review the requirements below and the 
 
 ## Vaadin Designer 4.x
 
+### What's new in 4.3
+  - Part of Vaadin platform 14
+
 ### What's new in 4.2
   - Configurable styles and themes
 
@@ -143,6 +146,12 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.3.0.beta1
+
+Released 2019-05-03
+    
+  - Vaadin 14 support: use Vaadin Designer to create and edit Polymer 3 based designs.
 
 #### 4.2.2
 
