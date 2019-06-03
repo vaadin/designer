@@ -147,6 +147,12 @@ Framework 7.
 
 ## Releases
 
+#### 4.3.0.beta2
+
+Released 2019-06-03
+    
+  - Generated companion file has wrong annotation value. ([#2046](https://github.com/vaadin/designer/issues/2046))
+
 #### 4.3.0.beta1
 
 Released 2019-05-03
