@@ -147,6 +147,14 @@ Framework 7.
 
 ## Releases
 
+#### 4.3.0.beta3
+
+Released 2019-07-04
+    
+  - Fix problem with adding web components to design. ([#2071](https://github.com/vaadin/designer/issues/2071))
+  - Fix deletion issue in a small design. ([#2066](https://github.com/vaadin/designer/issues/2066))
+  - Ignore nested node_modules folder. ([#2056](https://github.com/vaadin/designer/issues/2056))
+
 #### 4.3.0.beta2
 
 Released 2019-06-03
