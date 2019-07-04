@@ -154,6 +154,7 @@ Released 2019-07-04
   - Fix problem with adding web components to design. ([#2071](https://github.com/vaadin/designer/issues/2071))
   - Fix deletion issue in a small design. ([#2066](https://github.com/vaadin/designer/issues/2066))
   - Ignore nested node_modules folder. ([#2056](https://github.com/vaadin/designer/issues/2056))
+  - Support nested generic parameters for ComboBox itemType property. ([#2067](https://github.com/vaadin/designer/issues/2067))
 
 #### 4.3.0.beta2
 
