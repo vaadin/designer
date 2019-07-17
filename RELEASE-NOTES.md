@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.3.0.final](#vaadin-designer-4x).
+[Vaadin Designer 4.3.1](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -146,6 +146,12 @@ Framework 7.
   - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.3.1
+
+Released 2019-07-17
+
+  - Add Intercom chat toggle for IntelliJ. ([#2098](https://github.com/vaadin/designer/issues/2098))
 
 #### 4.3.0.final
 
