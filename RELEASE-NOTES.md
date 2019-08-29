@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.3.3](#vaadin-designer-4x).
+[Vaadin Designer 4.3.4](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -147,12 +147,18 @@ Framework 7.
 
 ## Releases
 
+#### 4.3.4
+
+Released 2019-08-29
+
+- Experimental Chrome editor support (https://vaadin.com/labs/designer-chrome). ([#1975](https://github.com/vaadin/designer/issues/1975))
+- Fix exception for Vaadin 8 project with frontend folder. ([#2120](https://github.com/vaadin/designer/issues/2120))
+
 #### 4.3.3
 
 Released 2019-08-13
 
 - Fix warning bubble missing for unresolved imports. ([#2108](https://github.com/vaadin/designer/issues/2108))
-
 - Update instructions to install frontend dependencies. ([#2114](https://github.com/vaadin/designer/issues/2114))
 
 #### 4.3.2
