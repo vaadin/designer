@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.6.4](#vaadin-designer-4x).
+[Vaadin Designer 4.6.5](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -155,6 +155,15 @@ Framework 7.
 - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.6.5
+
+Released 2021-06-29
+
+- Support embedded browser editor for Flow and Java 11
+- Fix not working Designer for Vaadin 8 and Java 11 ([#2393](https://github.com/vaadin/designer/issues/2390))
+- Use correct editor type depending on project, OS and IDE
+- Improve Node server installation
 
 #### 4.6.4
 
