@@ -161,7 +161,7 @@ Framework 7.
 Released 2021-06-29
 
 - Support embedded browser editor for Flow and Java 11
-- Fix not working Designer for Vaadin 8 and Java 11 ([#2393](https://github.com/vaadin/designer/issues/2390))
+- Fix not working Designer for Vaadin 8 and Java 11 ([#2393](https://github.com/vaadin/designer/issues/2393))
 - Use correct editor type depending on project, OS and IDE
 - Improve Node server installation
 
