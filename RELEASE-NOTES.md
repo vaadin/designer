@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.6.5](#vaadin-designer-4x).
+[Vaadin Designer 4.6.6](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -155,6 +155,13 @@ Framework 7.
 - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.6.6
+
+Released 2021-07-29
+
+- Fix not working Vaadin Designer for IntelliJ IDEA 2021.2 ([#2404](https://github.com/vaadin/designer/issues/2404))
+- Create Lit templates by default in IntelliJ IDEA after upgrading Vaadin ([#2401](https://github.com/vaadin/designer/issues/2401))
 
 #### 4.6.5
 
