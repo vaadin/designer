@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.6.7](#vaadin-designer-4x).
+[Vaadin Designer 4.6.8](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -155,6 +155,15 @@ Framework 7.
 - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.6.8
+
+Released 2021-08-10
+
+- Improve Node server installation ([#2397](https://github.com/vaadin/designer/issues/2397))
+- Fix indefinite loop while indexing ([#2374](https://github.com/vaadin/designer/issues/2374))
+- Fix exception in a "New Flow design" dialog ([#2367](https://github.com/vaadin/designer/issues/2367))
+- Use logging interval for websocket heartbeat messages ([#2373](https://github.com/vaadin/designer/issues/2373))
 
 #### 4.6.7
 
