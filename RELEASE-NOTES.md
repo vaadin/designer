@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.6.8](#vaadin-designer-4x).
+[Vaadin Designer 4.6.9](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -155,6 +155,17 @@ Framework 7.
 - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.6.9
+
+Released 2021-08-25
+
+- Support preview mode for embedded editor ([#2409](https://github.com/vaadin/designer/issues/2409))
+- Allow creating new Vaadin 8 designs ([#2410](https://github.com/vaadin/designer/issues/2410))
+- Restore selection after Chrome editor refresh ([#2411](https://github.com/vaadin/designer/issues/2411))
+- Fix exception when clicking on empty Paper area ([#2406](https://github.com/vaadin/designer/issues/2406))
+- Do not hide Help button behind text node editor ([#2408](https://github.com/vaadin/designer/issues/2408))
+- Clear selection when clicking on empty Paper area ([#2407](https://github.com/vaadin/designer/issues/2407))
 
 #### 4.6.8
 
