@@ -156,6 +156,21 @@ Framework 7.
 
 ## Releases
 
+#### 4.6.10
+
+Released 2021-10-19
+
+- Add companion file name to New template wizard ([#2294](https://github.com/vaadin/designer/issues/2294))
+- Auto update Chrome editor preview after source change ([#2387](https://github.com/vaadin/designer/issues/2387))
+- Explicitly refresh project after Polymer 3 dependencies installation ([#2416](https://github.com/vaadin/designer/issues/2416))
+- Consider existing types only during annotation scan ([#2065](https://github.com/vaadin/designer/issues/2065))
+- Fix custom theme support for latest project types ([#2414](https://github.com/vaadin/designer/issues/2414))
+- Correctly detect custom theme name ([#2415](https://github.com/vaadin/designer/issues/2415))
+- Improve Node server installation ([#2397](https://github.com/vaadin/designer/issues/2397))
+- Improve exception handling in servlet ([#2109](https://github.com/vaadin/designer/issues/2109))
+- Improve startup and loading performance
+- Minor UI changes and bugfixes
+
 #### 4.6.9
 
 Released 2021-08-25
