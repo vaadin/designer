@@ -5,7 +5,7 @@ Vaadin Designer is available for Vaadin platform and Vaadin Framework 8.
 There is also separate product for Vaadin Framework 7. Release notes for that product can be found from https://github.com/vaadin/designer/blob/master/RELEASE-NOTES-FW7.md
 
 The latest version for Vaadin platform and Framework 8 is
-[Vaadin Designer 4.6.10](#vaadin-designer-4x).
+[Vaadin Designer 4.6.11](#vaadin-designer-4x).
 
 See the full list of [releases](#releases).
 
@@ -155,6 +155,13 @@ Framework 7.
 - Stability improvements and bug fixes
 
 ## Releases
+
+#### 4.6.11
+
+Released 2021-11-05
+
+- Prevent clearing `PrimaryStyleName` property in Vaadin 8 designs ([#1194](https://github.com/vaadin/designer/issues/1194))
+- Minor UI changes
 
 #### 4.6.10
 
