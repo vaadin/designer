@@ -7,7 +7,7 @@ Before installing a previous version, it's always recommended to delete/uninstal
 
  - Using Eclipse's ***Help*** menu, click on the ***Install New Software*** option.  ![image uninstall-1](./screenshots/uninstall-1.png)
  - On the _Install_ dialog that opens, click on the ***What is already installed?*** option.  ![image uninstall-2](./screenshots/uninstall-2.png)
- - On the _Installation Details_ dialog, inside the _Installed Software_ tab, select Vaadin Designer and click on the ***Uninstall*** button below.  ![image uninstall-3](./screenshots/uninstall-3.png)
+ - On the _Installation Details_ dialog (_Installed Software_ tab), select Vaadin Designer and click on the ***Uninstall*** button below.  ![image uninstall-3](./screenshots/uninstall-3.png)
  - Finally, click on the ***Finish*** button on the _Uninstall_ confirmation dialog. Restart your IDE if prompted.  ![image uninstall-4](./screenshots/uninstall-4.png)
 
 ## Installation
