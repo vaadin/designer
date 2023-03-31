@@ -13,7 +13,7 @@ Before installing a previous version, it's always recommended to delete/uninstal
 ## Installation
 Before performing a manual installation of Vaadin Designer, make sure you have uninstalled previous versions by following the [Uninstall](#uninstall) section above. Then follow these steps:
 
- - Download your desired version from the [previous-releases](./previous-releases/) directory.
+ - Download your desired version from the [Releases](https://github.com/vaadin/designer/releases) section (look in assets for files with the _vaadin-designer-elipse-X.X.XX.zip_ naming convention. Note the oldest releases might not be available for manual download/installation).
  - Using Eclipse's ***Help*** menu, click on the ***Install New Software*** option.  ![image install-1](./screenshots/install-1.png)
  - On the _Install_ dialog that opens, click on the ***Add*** button, then on the ***Archive*** button inside the _Add Repository_ dialog. Lastly, point the file browser to your previously downloaded file and click on ***Open***.  ![image install-2](./screenshots/install-2.png)
  - Now, click on the ***Add*** button inside the _Add Repository_ dialog (adding a name is optional)  ![image install-3](./screenshots/install-3.png)
